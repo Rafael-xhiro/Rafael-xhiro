@@ -1,7 +1,5 @@
 Hi 👋, soy Rafael
 
-"Si compila a la primera, algo salió mal."
-
 Estudiante de Ingeniería de Sistemas en Lima, Perú. Me gusta meterle mano a proyectos full-stack, dashboards con BI/ML, y de vez en cuando experimentar con realidad virtual.
 
 ## 🔧 Tech Stack
